@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.table-hover:hover{
+	background-color:gray;
+	color:black;
+	
+}
